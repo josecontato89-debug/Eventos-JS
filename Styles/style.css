@@ -1,4 +1,8 @@
 
+//Mudando os marcadores de lista
 .mudar{
     list-style-type: square;
+}
+.mudar2{
+    list-style-type: georgian;
 }
