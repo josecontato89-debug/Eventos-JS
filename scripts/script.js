@@ -12,3 +12,8 @@ console.log(ListaItens);
 //     alert("Você clicou no botão!")
 // });
 
+const  cor = document.getElementById('btn');
+ cor.addEventListener('click',function(){
+    document.body.style.backgroudColor = 'green'
+    
+})
